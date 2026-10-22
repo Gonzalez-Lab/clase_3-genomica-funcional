@@ -1,7 +1,11 @@
 Clase 3 — Genómica funcional: análisis de ATAC-seq y ChIP-seq
+
 Curso: Descifrando el código epigenético: de la genómica funcional al análisis bioinformático de datos ómicos
+
 Institución: ITBA · 2026
+
 Material práctico: Gonzalez Lab
+
 Objetivo
 Esta clase introduce el análisis bioinformático de regiones genómicas enriquecidas (peaks) obtenidas mediante ATAC-seq y ChIP-seq. A partir de archivos de picos, alineamientos y resultados de análisis diferencial, se trabaja sobre el control de calidad, la anotación genómica y la interpretación de cambios entre condiciones experimentales.
 
